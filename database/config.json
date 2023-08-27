@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Mano@2022",
+    "database": "mano",
+    "host": "sh-cdb-5gkg6fnm.sql.tencentcdb.com",
+    "port": 63873,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Mano@2022",
+    "database": "mano",
+    "host": "sh-cdb-5gkg6fnm.sql.tencentcdb.com",
+    "port": 63873,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Mano@2022",
+    "database": "mano",
+    "host": "sh-cdb-5gkg6fnm.sql.tencentcdb.com",
+    "port": 63873,
+    "dialect": "mysql"
+  }
+}
